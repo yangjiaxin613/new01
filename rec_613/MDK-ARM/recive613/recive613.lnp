@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"recive613\startup_stm32f103xb.o"
+"recive613\main.o"
+"recive613\gpio.o"
+"recive613\usart.o"
+"recive613\stm32f1xx_it.o"
+"recive613\stm32f1xx_hal_msp.o"
+"recive613\stm32f1xx_hal_gpio_ex.o"
+"recive613\stm32f1xx_hal_tim.o"
+"recive613\stm32f1xx_hal_tim_ex.o"
+"recive613\stm32f1xx_hal_uart.o"
+"recive613\stm32f1xx_hal.o"
+"recive613\stm32f1xx_hal_rcc.o"
+"recive613\stm32f1xx_hal_rcc_ex.o"
+"recive613\stm32f1xx_hal_gpio.o"
+"recive613\stm32f1xx_hal_dma.o"
+"recive613\stm32f1xx_hal_cortex.o"
+"recive613\stm32f1xx_hal_pwr.o"
+"recive613\stm32f1xx_hal_flash.o"
+"recive613\stm32f1xx_hal_flash_ex.o"
+"recive613\stm32f1xx_hal_exti.o"
+"recive613\system_stm32f1xx.o"
+"recive613\esp8266.o"
+"recive613\onenet.o"
+--library_type=microlib --strict --scatter "recive613\recive613.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "recive613.map" -o recive613\recive613.axf
