@@ -1,0 +1,13 @@
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+zigbee613send\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+zigbee613send\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+zigbee613send\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+zigbee613send\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+zigbee613send\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

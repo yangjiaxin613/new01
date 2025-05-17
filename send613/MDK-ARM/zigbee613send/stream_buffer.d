@@ -1,0 +1,14 @@
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+zigbee613send\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+zigbee613send\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+zigbee613send\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+zigbee613send\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+zigbee613send\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
